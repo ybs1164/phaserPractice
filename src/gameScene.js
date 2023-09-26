@@ -12,9 +12,9 @@ export class GameScene extends Phaser.Scene {
 
     }
     create() {
-
+        this.add.circle(100, 100, 10);
     }
     update(time) {
-        
+
     }
 }

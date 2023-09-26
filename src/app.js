@@ -2,7 +2,7 @@ import "phaser";
 import { GameScene } from "./gameScene";
 
 const config = {
-    title: "Test2",
+    title: "TEST",
     width: 1000,
     height: 600,
     parent: "game",
